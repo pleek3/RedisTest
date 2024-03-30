@@ -1,0 +1,4 @@
+name: RedisTest
+version: '${version}'
+main: com.minequest.redistest.RedisTest
+api-version: '1.20'
